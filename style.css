@@ -1,0 +1,54 @@
+.cabecalho {
+    background-color: #890042;
+    color: #FF98C9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.cosméticos-imagem{
+    width: 25%;
+}
+.cosméticos{
+    background-color: #890042;
+    color:#FF98C9;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.cosméticos-div-conteudo{
+    width: 35%;
+}
+.cosméticos-titulo{
+    font-size: 30px;
+    padding: 24px 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.produtos-div-conteudo{
+    background-color: #890042;
+    color: #FF98C9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+.novosprodutos-div-conteudo{
+    background-color: #890042;
+    color: #FF98C9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+
+
